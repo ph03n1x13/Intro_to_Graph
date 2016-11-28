@@ -1,5 +1,5 @@
 # Intro_to_Graph
-<i><h3>This repo contains basic and smallest units of Graph in C and Python</h3></i> </br>
+<i><h3>This repo contains basic and smallest units of Graph in C/C++ (ocassionaly python)</h3></i> </br>
 <strong>contents .....</strong>  </br>
 
 1. Stack
