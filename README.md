@@ -9,4 +9,4 @@
 5. Adjacency List (c/c++)
 6. Basic graph traversals BFS/DFS
 7. Advanced Implementations
-8. Graph related problem solutions with detailed codes  
+8. Graph related problem solutions with detailed discussion links and codes  
