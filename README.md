@@ -7,5 +7,6 @@
 3. Binary Tree
 4. Adjacency Matrix
 5. Adjacency List (c/c++)
-6.BFS/DFS
-7.Graph related problems and solutions
+6. Basic graph traversals BFS/DFS
+7. Advanced Implementations
+8. Graph related problem solutions with detailed codes  
