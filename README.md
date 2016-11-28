@@ -6,4 +6,6 @@
 2. Queue
 3. Binary Tree
 4. Adjacency Matrix
-5. Adjacency List
+5. Adjacency List (c/c++)
+6.BFS/DFS
+7.Graph related problems and solutions
