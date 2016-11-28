@@ -46,7 +46,7 @@ void add_adj_node(Image &graph, int src, int dst, bool dir) {
 }
 
 void print_graph(Image &graph, int lmt) {
-  for (int i = 0; i < lmt; i++) {
+  for (int i = 0; i <= lmt; i++) {
     printf("array[%d]: ", i);
     int grSz = graph[i].size();
 
